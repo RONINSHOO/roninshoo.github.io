@@ -1,0 +1,32 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="roninshoo.github.io" resolutions="1x" timestamp="1557308168286">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3884167251" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="$.jpg" crc="468322497" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="il_fullxfull1696796638_6mxt2-crop-u109.jpg" crc="104913007" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="il_794xn1744258207_c71g 2.jpg" crc="3865080828" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="il_794xn1744258423_82se 2.jpg" crc="479561942" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mozambique-crop-u122.jpg" crc="392593413" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="43537306" seo="true" mt="1557306359519" redirect="true"/>
+</manifest>
